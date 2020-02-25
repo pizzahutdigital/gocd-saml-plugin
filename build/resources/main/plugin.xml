@@ -1,0 +1,12 @@
+<go-plugin id="cd.go.auth.saml" version="1">
+  <about>
+    <name>Saml plugin for gocd</name>
+    <version>0.0.1</version>
+    <target-go-version>17.3.0</target-go-version>
+    <description>Saml plugion for gocd</description>
+    <vendor>
+      <name>Sonic America's drive in</name>
+      <url>https://github.com/sonicdrivein/gocd-saml-plugin</url>
+    </vendor>
+  </about>
+</go-plugin>
