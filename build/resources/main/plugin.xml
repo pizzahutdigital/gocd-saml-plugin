@@ -1,4 +1,4 @@
-<go-plugin id="cd.go.saml" version="1">
+<go-plugin id="saml.auth" version="1">
   <about>
     <name>Saml plugin for gocd</name>
     <version>0.0.1</version>
