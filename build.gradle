@@ -19,7 +19,7 @@ group = 'org.sonicdrivein'
 version = '0.0.1'
 
 project.ext.pluginDesc = [
-  id         : 'cd.go.auth.saml',
+  id         : 'auth.saml',
   version    : project.version,
   goCdVersion: '17.3.0',
   name       : 'Saml plugin for gocd',
