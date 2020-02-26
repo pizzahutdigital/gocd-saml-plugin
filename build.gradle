@@ -19,13 +19,13 @@ group = 'org.sonicdrivein'
 version = '0.0.1'
 
 project.ext.pluginDesc = [
-  id         : 'saml.auth',
+  id         : 'cd.go.auth.saml',
   version    : project.version,
   goCdVersion: '17.3.0',
   name       : 'Saml plugin for gocd',
   description: 'Saml plugion for gocd',
-  vendorName : "Sonic America's drive in",
-  vendorUrl  : 'https://github.com/sonicdrivein/gocd-saml-plugin'
+  vendorName : "Pizza Hut Connect, LLC.",
+  vendorUrl  : 'https://github.com/pizzahutdigital/gocd-saml-plugin'
 ]
 
 sourceCompatibility = 1.8
